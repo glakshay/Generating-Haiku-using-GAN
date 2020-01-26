@@ -1,2 +1,2 @@
-# AI_PROJECT
-Haiku Generator
+# Artificial Intelligence PROJECT
+Haiku Generator using GAN 
